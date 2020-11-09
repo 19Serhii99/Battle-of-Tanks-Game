@@ -1,0 +1,17 @@
+#
+#Wed Apr 03 00:52:19 EEST 2019
+interfaceVolume=100.0
+isFrameLimitation=true
+cameraWidth=1920.0
+isRememberAccount=true
+isFullscreen=true
+isVSync=false
+login=19nesterov99@gmail.com
+techniqueVolume=100.0
+isMute=false
+password=rhfcfdxbr1
+isMuteWhenHidden=true
+generalVolume=100.0
+effectsVolume=100.0
+cameraHeight=1080.0
+environmentVolume=100.0
