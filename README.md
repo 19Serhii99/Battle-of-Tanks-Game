@@ -2,12 +2,12 @@
 
 ![Logo](https://user-images.githubusercontent.com/70665279/98490371-fbec9c00-2239-11eb-9019-114f5f94489c.jpg)
 
-Battle of tanks is a 2D arcade tank simulator with action and shooter elements.
+Battle of tanks is a 2D multiplayer arcade tank simulator with action and shooter elements.
 The concept of the game is a battle of players who control different types of armored vehicles such as tanks, self-propelled guns, multiple launch rocket systems, flamethrower systems that can be explored for player's experience and can be bought with the game currency - gold. Experience and gold are gained with every battle.
 
 The main idea of the educational project was to show students and teachers how mathematics and physics can be straightforward. There were conferences at different educational institution where people could see how the game works and how it's done. Most of cases that were taken into consideration were closely connected with the linear and vector algebra.
 
-The interface was developed in Ukrainian.
+The interface was developed in Ukrainian. The program uses TCP and UDP connection. TCP is used to connect a user to any available server for sending and retrieving some important game and player information (e.g., player's statistics). UDP is used to quickly transfer battle and map data between users and servers as TCP slows down the main renderring thread of all users owing to its structure.
 
 Here are a few interface examples:
 
